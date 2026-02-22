@@ -5,7 +5,7 @@ let imagebtn = document.querySelector("#image");
 let image = document.querySelector("#image img");
 let imageinput = document.querySelector("#image input");
 
-const API_URL = "YOUR_API_KEY_HERE";
+const API_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=AIzaSyA7t6ZuY4K_PJivXtU6FRkZOYS-ZDaM2qk";
 let user = {
     message:null,
     file:{
@@ -121,4 +121,5 @@ imagebtn.addEventListener("click",()=>{
     imagebtn.querySelector("input").click();
 
 })
+
 
