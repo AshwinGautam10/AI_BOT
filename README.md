@@ -29,17 +29,21 @@ This project supports both **text responses** and **AI image generation**, with 
 ## 📸 Project Screenshots
 
 ### 🏠 Home Interface
-![Home UI](assets/screenshots/home.png)
+<img width="1920" height="884" alt="simple" src="https://github.com/user-attachments/assets/61728027-179c-4828-8038-dbce903f501e" />
+
 
 ---
 
 ### 💬 Text Response Example
-![Text Response](assets/screenshots/text-response.png)
+<img width="1920" height="878" alt="text" src="https://github.com/user-attachments/assets/062d8eab-416d-4756-b130-59e4a1c675d1" />
+
+
 
 ---
 
 ### 🖼️ Image Generation Example
-![Image Response](assets/screenshots/image-response.png)
+<img width="1920" height="908" alt="image" src="https://github.com/user-attachments/assets/a96e14fb-799f-4a7e-87d4-f47486864afa" />
+
 
 ---
 
@@ -69,8 +73,6 @@ Open `script.js` and add your API key:
 ```javascript
 const API_KEY = "YOUR_API_KEY_HERE";
 ```
-
-⚠️ Do NOT upload your real API key to GitHub.
 
 ---
 
