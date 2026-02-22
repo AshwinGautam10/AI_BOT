@@ -5,7 +5,7 @@ let imagebtn = document.querySelector("#image");
 let image = document.querySelector("#image img");
 let imageinput = document.querySelector("#image input");
 
-const API_KEY = "YOUR_API_KEY_HERE";
+const API_URL = "YOUR_API_KEY_HERE";
 let user = {
     message:null,
     file:{
@@ -121,3 +121,4 @@ imagebtn.addEventListener("click",()=>{
     imagebtn.querySelector("input").click();
 
 })
+
