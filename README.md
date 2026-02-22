@@ -5,6 +5,13 @@ This project supports both **text responses** and **AI image generation**, with 
 
 ---
 
+## 🚀 Live Demo
+
+🌐 **Deployed on Vercel:**  
+👉 https://ai-bot-two-mu.vercel.app/
+
+---
+
 ## 🚀 Features
 
 - 💬 Real-time AI text responses
@@ -31,19 +38,15 @@ This project supports both **text responses** and **AI image generation**, with 
 ### 🏠 Home Interface
 <img width="1920" height="884" alt="simple" src="https://github.com/user-attachments/assets/61728027-179c-4828-8038-dbce903f501e" />
 
-
 ---
 
 ### 💬 Text Response Example
 <img width="1920" height="878" alt="text" src="https://github.com/user-attachments/assets/062d8eab-416d-4756-b130-59e4a1c675d1" />
 
-
-
 ---
 
 ### 🖼️ Image Generation Example
 <img width="1920" height="908" alt="image" src="https://github.com/user-attachments/assets/a96e14fb-799f-4a7e-87d4-f47486864afa" />
-
 
 ---
 
@@ -83,16 +86,6 @@ const API_KEY = "YOUR_API_KEY_HERE";
 - Backend integration
 - Deployment on Vercel / Netlify
 - Markdown formatting support
-
----
-
-## 🌍 Live Demo (Optional)
-
-Add your deployed project link here:
-
-```
-https://your-live-link.com
-```
 
 ---
 
